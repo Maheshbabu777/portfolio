@@ -19,7 +19,7 @@ This is a **personal portfolio website** designed using **HTML,CSS and JS**. It 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Mahesh777/portfolio.git
+   git clone https://github.com/Maheshbabu777/portfolio.git
    ```
 2. **Navigate to the project folder:**
    ```sh
@@ -29,7 +29,7 @@ This is a **personal portfolio website** designed using **HTML,CSS and JS**. It 
 
 ## **Folder Structure**
 
-
+## visit the portfolio ## - https://maheshbabu777.github.io/portfolio/
 
 ├── **index.html**
 ├── **style.css**
